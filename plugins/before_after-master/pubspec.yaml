@@ -1,0 +1,18 @@
+name: before_after
+description: A flutter package which makes it easier to display the difference between two images.
+version: 2.1.0
+homepage: https://github.com/xsahil03x/before_after
+
+environment:
+  sdk: ">=2.2.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+ 
